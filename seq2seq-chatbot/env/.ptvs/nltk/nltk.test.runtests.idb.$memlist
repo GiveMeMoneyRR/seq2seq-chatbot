@@ -1,0 +1,17 @@
+sys
+builtin
+Doctest
+nose
+os
+PluginManager
+NltkPluginManager
+NLTK_TEST_DIR
+absolute_import
+rednose_available
+print_function
+arguments
+args
+RedNose
+manager
+DoctestFix
+NLTK_ROOT

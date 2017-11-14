@@ -16108,3 +16108,410 @@ RuntimeError: Could not find TCL routines
 2017-11-14T19:15:30: [ERROR] tensorlayer.nlp.read_words: Unknown has no name
 2017-11-14T19:15:30: End of group "c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\tensorlayer"
 2017-11-14T19:15:33: Deleting 0 files
+
+2017-11-14T19:37:50: Start analysis
+2017-11-14T19:37:50: IncludeModulesFromModulePath = win32com
+2017-11-14T19:37:52: Including c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk because nltk.book needs updating
+2017-11-14T19:37:52: Including c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk because nltk.test.all needs updating
+2017-11-14T19:37:52: Deleting 0 files
+2017-11-14T19:37:52: astropy.CallDepth = 0
+2017-11-14T19:37:52: delphixpy.CallDepth = 0
+2017-11-14T19:37:52: matplotlib.CallDepth = 3
+2017-11-14T19:37:52: pandas.CallDepth = 0
+2017-11-14T19:37:52: sympy.CallDepth = 0
+2017-11-14T19:37:52: Start group "c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk" with 267 files
+2017-11-14T19:37:54: Parsing complete
+2017-11-14T19:37:54: Analyzing "nltk.book" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\book.py")
+2017-11-14T19:37:54: Analyzing "nltk.collections" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\collections.py")
+2017-11-14T19:37:54: Analyzing "nltk.collocations" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\collocations.py")
+2017-11-14T19:37:54: Analyzing "nltk.compat" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\compat.py")
+2017-11-14T19:37:54: Analyzing "nltk.data" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\data.py")
+2017-11-14T19:37:54: Analyzing "nltk.decorators" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\decorators.py")
+2017-11-14T19:37:54: Analyzing "nltk.downloader" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\downloader.py")
+2017-11-14T19:37:54: Analyzing "nltk.featstruct" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\featstruct.py")
+2017-11-14T19:37:54: Analyzing "nltk.grammar" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\grammar.py")
+2017-11-14T19:37:54: Analyzing "nltk.help" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\help.py")
+2017-11-14T19:37:54: Analyzing "nltk.internals" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\internals.py")
+2017-11-14T19:37:54: Analyzing "nltk.jsontags" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\jsontags.py")
+2017-11-14T19:37:54: Analyzing "nltk.lazyimport" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\lazyimport.py")
+2017-11-14T19:37:54: Analyzing "nltk.probability" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\probability.py")
+2017-11-14T19:37:54: Analyzing "nltk.text" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\text.py")
+2017-11-14T19:37:54: Analyzing "nltk.tgrep" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tgrep.py")
+2017-11-14T19:37:54: Analyzing "nltk.toolbox" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\toolbox.py")
+2017-11-14T19:37:54: Analyzing "nltk.tree" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tree.py")
+2017-11-14T19:37:54: Analyzing "nltk.treeprettyprinter" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\treeprettyprinter.py")
+2017-11-14T19:37:54: Analyzing "nltk.treetransforms" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\treetransforms.py")
+2017-11-14T19:37:54: Analyzing "nltk.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.wsd" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\wsd.py")
+2017-11-14T19:37:54: Analyzing "nltk" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.app.chartparser_app" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\app\chartparser_app.py")
+2017-11-14T19:37:54: Analyzing "nltk.app.chunkparser_app" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\app\chunkparser_app.py")
+2017-11-14T19:37:54: Analyzing "nltk.app.collocations_app" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\app\collocations_app.py")
+2017-11-14T19:37:54: Analyzing "nltk.app.concordance_app" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\app\concordance_app.py")
+2017-11-14T19:37:54: Analyzing "nltk.app.nemo_app" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\app\nemo_app.py")
+2017-11-14T19:37:54: Analyzing "nltk.app.rdparser_app" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\app\rdparser_app.py")
+2017-11-14T19:37:54: Analyzing "nltk.app.srparser_app" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\app\srparser_app.py")
+2017-11-14T19:37:54: Analyzing "nltk.app.wordfreq_app" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\app\wordfreq_app.py")
+2017-11-14T19:37:54: Analyzing "nltk.app.wordnet_app" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\app\wordnet_app.py")
+2017-11-14T19:37:54: Analyzing "nltk.app" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\app\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.ccg.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\ccg\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.ccg.chart" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\ccg\chart.py")
+2017-11-14T19:37:54: Analyzing "nltk.ccg.combinator" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\ccg\combinator.py")
+2017-11-14T19:37:54: Analyzing "nltk.ccg.lexicon" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\ccg\lexicon.py")
+2017-11-14T19:37:54: Analyzing "nltk.ccg.logic" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\ccg\logic.py")
+2017-11-14T19:37:54: Analyzing "nltk.ccg" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\ccg\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.chat.eliza" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chat\eliza.py")
+2017-11-14T19:37:54: Analyzing "nltk.chat.iesha" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chat\iesha.py")
+2017-11-14T19:37:54: Analyzing "nltk.chat.rude" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chat\rude.py")
+2017-11-14T19:37:54: Analyzing "nltk.chat.suntsu" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chat\suntsu.py")
+2017-11-14T19:37:54: Analyzing "nltk.chat.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chat\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.chat.zen" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chat\zen.py")
+2017-11-14T19:37:54: Analyzing "nltk.chat" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chat\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.chunk.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chunk\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.chunk.named_entity" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chunk\named_entity.py")
+2017-11-14T19:37:54: Analyzing "nltk.chunk.regexp" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chunk\regexp.py")
+2017-11-14T19:37:54: Analyzing "nltk.chunk.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chunk\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.chunk" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\chunk\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.decisiontree" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\decisiontree.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.maxent" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\maxent.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.megam" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\megam.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.naivebayes" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\naivebayes.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.positivenaivebayes" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\positivenaivebayes.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.rte_classify" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\rte_classify.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.scikitlearn" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\scikitlearn.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.senna" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\senna.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.svm" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\svm.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.tadm" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\tadm.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.textcat" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\textcat.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify.weka" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\weka.py")
+2017-11-14T19:37:54: Analyzing "nltk.classify" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\classify\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.cluster.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\cluster\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.cluster.em" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\cluster\em.py")
+2017-11-14T19:37:54: Analyzing "nltk.cluster.gaac" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\cluster\gaac.py")
+2017-11-14T19:37:54: Analyzing "nltk.cluster.kmeans" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\cluster\kmeans.py")
+2017-11-14T19:37:54: Analyzing "nltk.cluster.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\cluster\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.cluster" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\cluster\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.europarl_raw" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\europarl_raw.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.aligned" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\aligned.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.bnc" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\bnc.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.bracket_parse" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\bracket_parse.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.categorized_sents" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\categorized_sents.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.chasen" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\chasen.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.childes" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\childes.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.chunked" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\chunked.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.cmudict" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\cmudict.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.comparative_sents" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\comparative_sents.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.conll" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\conll.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.crubadan" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\crubadan.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.dependency" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\dependency.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.framenet" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\framenet.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.ieer" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\ieer.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.indian" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\indian.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.ipipan" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\ipipan.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.knbc" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\knbc.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.lin" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\lin.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.mte" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\mte.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.nkjp" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\nkjp.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.nombank" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\nombank.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.nps_chat" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\nps_chat.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.opinion_lexicon" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\opinion_lexicon.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.panlex_lite" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\panlex_lite.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.pl196x" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\pl196x.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.plaintext" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\plaintext.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.ppattach" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\ppattach.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.propbank" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\propbank.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.pros_cons" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\pros_cons.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.reviews" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\reviews.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.rte" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\rte.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.semcor" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\semcor.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.senseval" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\senseval.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.sentiwordnet" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\sentiwordnet.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.sinica_treebank" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\sinica_treebank.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.string_category" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\string_category.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.switchboard" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\switchboard.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.tagged" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\tagged.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.timit" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\timit.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.toolbox" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\toolbox.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.twitter" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\twitter.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.udhr" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\udhr.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.verbnet" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\verbnet.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.wordlist" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\wordlist.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.wordnet" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\wordnet.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.xmldocs" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\xmldocs.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader.ycoe" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\ycoe.py")
+2017-11-14T19:37:54: Analyzing "nltk.corpus.reader" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\corpus\reader\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.draw.cfg" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\draw\cfg.py")
+2017-11-14T19:37:54: Analyzing "nltk.draw.dispersion" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\draw\dispersion.py")
+2017-11-14T19:37:54: Analyzing "nltk.draw.table" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\draw\table.py")
+2017-11-14T19:37:54: Analyzing "nltk.draw.tree" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\draw\tree.py")
+2017-11-14T19:37:54: Analyzing "nltk.draw.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\draw\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.draw" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\draw\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.inference.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\inference\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.inference.discourse" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\inference\discourse.py")
+2017-11-14T19:37:54: Analyzing "nltk.inference.mace" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\inference\mace.py")
+2017-11-14T19:37:54: Analyzing "nltk.inference.nonmonotonic" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\inference\nonmonotonic.py")
+2017-11-14T19:37:54: Analyzing "nltk.inference.prover9" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\inference\prover9.py")
+2017-11-14T19:37:54: Analyzing "nltk.inference.resolution" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\inference\resolution.py")
+2017-11-14T19:37:54: Analyzing "nltk.inference.tableau" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\inference\tableau.py")
+2017-11-14T19:37:54: Analyzing "nltk.inference" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\inference\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.metrics.agreement" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\metrics\agreement.py")
+2017-11-14T19:37:54: Analyzing "nltk.metrics.aline" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\metrics\aline.py")
+2017-11-14T19:37:54: Analyzing "nltk.metrics.association" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\metrics\association.py")
+2017-11-14T19:37:54: Analyzing "nltk.metrics.confusionmatrix" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\metrics\confusionmatrix.py")
+2017-11-14T19:37:54: Analyzing "nltk.metrics.distance" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\metrics\distance.py")
+2017-11-14T19:37:54: Analyzing "nltk.metrics.paice" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\metrics\paice.py")
+2017-11-14T19:37:54: Analyzing "nltk.metrics.scores" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\metrics\scores.py")
+2017-11-14T19:37:54: Analyzing "nltk.metrics.segmentation" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\metrics\segmentation.py")
+2017-11-14T19:37:54: Analyzing "nltk.metrics.spearman" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\metrics\spearman.py")
+2017-11-14T19:37:54: Analyzing "nltk.metrics" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\metrics\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.misc.babelfish" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\misc\babelfish.py")
+2017-11-14T19:37:54: Analyzing "nltk.misc.chomsky" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\misc\chomsky.py")
+2017-11-14T19:37:54: Analyzing "nltk.misc.minimalset" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\misc\minimalset.py")
+2017-11-14T19:37:54: Analyzing "nltk.misc.sort" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\misc\sort.py")
+2017-11-14T19:37:54: Analyzing "nltk.misc.wordfinder" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\misc\wordfinder.py")
+2017-11-14T19:37:54: Analyzing "nltk.misc" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\misc\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.bllip" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\bllip.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.chart" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\chart.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.corenlp" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\corenlp.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.dependencygraph" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\dependencygraph.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.earleychart" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\earleychart.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.evaluate" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\evaluate.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.featurechart" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\featurechart.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.generate" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\generate.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.malt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\malt.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.nonprojectivedependencyparser" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\nonprojectivedependencyparser.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.pchart" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\pchart.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.projectivedependencyparser" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\projectivedependencyparser.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.recursivedescent" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\recursivedescent.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.shiftreduce" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\shiftreduce.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.stanford" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\stanford.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.transitionparser" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\transitionparser.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse.viterbi" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\viterbi.py")
+2017-11-14T19:37:54: Analyzing "nltk.parse" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\parse\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.boxer" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\boxer.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.chat80" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\chat80.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.cooper_storage" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\cooper_storage.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.drt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\drt.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.drt_glue_demo" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\drt_glue_demo.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.evaluate" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\evaluate.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.glue" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\glue.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.hole" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\hole.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.lfg" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\lfg.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.linearlogic" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\linearlogic.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.logic" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\logic.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.relextract" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\relextract.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.skolemize" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\skolemize.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.sem" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sem\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.sentiment.sentiment_analyzer" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sentiment\sentiment_analyzer.py")
+2017-11-14T19:37:54: Analyzing "nltk.sentiment.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sentiment\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.sentiment.vader" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sentiment\vader.py")
+2017-11-14T19:37:54: Analyzing "nltk.sentiment" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\sentiment\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem.arlstem" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\arlstem.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem.isri" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\isri.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem.lancaster" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\lancaster.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem.porter" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\porter.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem.regexp" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\regexp.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem.rslp" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\rslp.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem.snowball" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\snowball.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem.wordnet" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\wordnet.py")
+2017-11-14T19:37:54: Analyzing "nltk.stem" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\stem\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.brill" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\brill.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.brill_trainer" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\brill_trainer.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.crf" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\crf.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.hmm" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\hmm.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.hunpos" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\hunpos.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.mapping" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\mapping.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.perceptron" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\perceptron.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.senna" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\senna.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.sequential" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\sequential.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.stanford" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\stanford.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.tnt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\tnt.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.tag" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tag\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.tbl.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tbl\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.tbl.demo" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tbl\demo.py")
+2017-11-14T19:37:54: Analyzing "nltk.tbl.erroranalysis" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tbl\erroranalysis.py")
+2017-11-14T19:37:54: Analyzing "nltk.tbl.feature" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tbl\feature.py")
+2017-11-14T19:37:54: Analyzing "nltk.tbl.rule" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tbl\rule.py")
+2017-11-14T19:37:54: Analyzing "nltk.tbl.template" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tbl\template.py")
+2017-11-14T19:37:54: Analyzing "nltk.tbl" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tbl\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.casual" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\casual.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.moses" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\moses.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.mwe" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\mwe.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.nist" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\nist.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.punkt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\punkt.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.regexp" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\regexp.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.repp" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\repp.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.sexpr" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\sexpr.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.simple" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\simple.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.stanford" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\stanford.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.stanford_segmenter" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\stanford_segmenter.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.texttiling" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\texttiling.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.toktok" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\toktok.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.treebank" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\treebank.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.tokenize" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\tokenize\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.bleu_score" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\bleu_score.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.chrf_score" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\chrf_score.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.gale_church" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\gale_church.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.gdfa" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\gdfa.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.gleu_score" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\gleu_score.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.ibm1" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\ibm1.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.ibm2" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\ibm2.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.ibm3" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\ibm3.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.ibm4" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\ibm4.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.ibm5" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\ibm5.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.ibm_model" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\ibm_model.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.metrics" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\metrics.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.nist_score" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\nist_score.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.phrase_based" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\phrase_based.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.ribes_score" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\ribes_score.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate.stack_decoder" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\stack_decoder.py")
+2017-11-14T19:37:54: Analyzing "nltk.translate" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\translate\__init__.py")
+2017-11-14T19:37:54: Analyzing "nltk.twitter.api" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\twitter\api.py")
+2017-11-14T19:37:54: Analyzing "nltk.twitter.common" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\twitter\common.py")
+2017-11-14T19:37:54: Analyzing "nltk.twitter.twitterclient" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\twitter\twitterclient.py")
+2017-11-14T19:37:54: Analyzing "nltk.twitter.twitter_demo" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\twitter\twitter_demo.py")
+2017-11-14T19:37:54: Analyzing "nltk.twitter.util" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\twitter\util.py")
+2017-11-14T19:37:54: Analyzing "nltk.twitter" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\twitter\__init__.py")
+2017-11-14T19:37:54: Starting analysis of 267 modules
+2017-11-14T19:38:10: Analysis complete
+2017-11-14T19:38:10: Saving group "c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk"
+2017-11-14T19:38:14: [ERROR] nltk.internals.find_jar_iter: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.internals.java: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.internals.java: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.util._path_from: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.util.concat: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.util.StreamBackedCorpusView.StreamBackedCorpusView: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.util.StreamBackedCorpusView.StreamBackedCorpusView: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.util.read_blankline_block: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.inference.discourse.DrtGlueReadingCommand.DrtGlueReadingCommand: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.twitter.util.credsfromfile: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.twitter.util.Authenticate.Authenticate: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.dependency.DependencyCorpusView.DependencyCorpusView: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.dependency.DependencyCorpusView.DependencyCorpusView: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.data.ZipFilePathPointer.ZipFilePathPointer: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.data.BufferedGzipFile.BufferedGzipFile: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.data.BufferedGzipFile.BufferedGzipFile: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.data.split_resource_url: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.data.find: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.data.load: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.data.normalize_resource_name: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.data.FileSystemPathPointer.FileSystemPathPointer: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.xmldocs.XMLCorpusView.XMLCorpusView: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.xmldocs.XMLCorpusView.XMLCorpusView: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.xmldocs.XMLCorpusView.XMLCorpusView: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.xmldocs.XMLCorpusView.XMLCorpusView: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.xmldocs.XMLCorpusView.XMLCorpusView: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.download: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.chunk.named_entity.load_ace_file: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.collections.LazyConcatenation.LazyConcatenation: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.sem.glue.DrtGlueDict.DrtGlueDict: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.sem.glue.Glue.Glue: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.sem.glue.DrtGlue.DrtGlue: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.sem.glue.GlueDict.GlueDict: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.sem.glue.GlueDict.GlueDict: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.mte.MTEFileReader.MTEFileReader: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.nkjp.NKJPCorpusReader.NKJPCorpusReader: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.nkjp.NKJPCorpusReader.NKJPCorpusReader: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.nkjp.NKJPCorpusReader.NKJPCorpusReader: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.nkjp.NKJPCorpusReader.NKJPCorpusReader: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.nkjp.NKJPCorpusReader.NKJPCorpusReader: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.nkjp.NKJPCorpus_Segmentation_View.NKJPCorpus_Segmentation_View: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.nkjp.NKJPCorpus_Segmentation_View.NKJPCorpus_Segmentation_View: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.tag.hmm.HiddenMarkovModelTagger.HiddenMarkovModelTagger: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.tag.hmm.HiddenMarkovModelTagger.HiddenMarkovModelTagger: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.tag.hmm.HiddenMarkovModelTagger.HiddenMarkovModelTagger: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.tag.hmm.HiddenMarkovModelTagger.HiddenMarkovModelTagger: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.tag.hmm.HiddenMarkovModelTagger.HiddenMarkovModelTagger: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.tag.hmm.HiddenMarkovModelTagger.HiddenMarkovModelTagger: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.tag.hmm.HiddenMarkovModelTagger.HiddenMarkovModelTagger: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.classify.weka._check_weka_version: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.classify.weka.ARFF_Formatter.ARFF_Formatter: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.util.binary_search_file: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.corpus.reader.categorized_sents.CategorizedSentencesCorpusReader.CategorizedSentencesCorpusReader: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.downloader._find_collections: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.downloader._md5_hexdigest: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.downloader.Downloader.Downloader: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.downloader.Downloader.Downloader: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.downloader.download: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.downloader._unzip_iter: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.downloader._unzip_iter: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.downloader.ErrorMessage.ErrorMessage: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.downloader._find_packages: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.downloader.md5_hexdigest: Unknown has no name
+2017-11-14T19:38:14: [ERROR] nltk.sem.boxer.Boxer.Boxer: Unknown has no name
+2017-11-14T19:38:14: End of group "c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk"
+2017-11-14T19:38:14: Start group "c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk" with 49 files
+2017-11-14T19:38:14: Parsing complete
+2017-11-14T19:38:14: Analyzing "nltk.test.all" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\all.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.childes_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\childes_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.classify_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\classify_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.compat_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\compat_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.corpus_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\corpus_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.discourse_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\discourse_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.doctest_nose_plugin" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\doctest_nose_plugin.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.gensim_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\gensim_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.gluesemantics_malt_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\gluesemantics_malt_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.inference_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\inference_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.nonmonotonic_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\nonmonotonic_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.portuguese_en_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\portuguese_en_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.probability_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\probability_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.runtests" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\runtests.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.segmentation_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\segmentation_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.semantics_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\semantics_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.translate_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\translate_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.wordnet_fixt" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\wordnet_fixt.py")
+2017-11-14T19:38:14: Analyzing "nltk.test" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\__init__.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_2x_compat" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_2x_compat.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_aline" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_aline.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_chunk" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_chunk.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_classify" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_classify.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_collocations" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_collocations.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_corenlp" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_corenlp.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_corpora" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_corpora.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_corpus_views" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_corpus_views.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_hmm" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_hmm.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_json2csv_corpus" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_json2csv_corpus.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_naivebayes" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_naivebayes.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_seekable_unicode_stream_reader" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_seekable_unicode_stream_reader.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_senna" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_senna.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_stem" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_stem.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_tag" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_tag.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_tgrep" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_tgrep.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_tokenize" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_tokenize.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_twitter_auth" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_twitter_auth.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.test_wordnet" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\test_wordnet.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.utils" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\utils.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\__init__.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.translate.test_bleu" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\translate\test_bleu.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.translate.test_ibm1" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\translate\test_ibm1.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.translate.test_ibm2" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\translate\test_ibm2.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.translate.test_ibm3" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\translate\test_ibm3.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.translate.test_ibm4" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\translate\test_ibm4.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.translate.test_ibm5" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\translate\test_ibm5.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.translate.test_ibm_model" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\translate\test_ibm_model.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.translate.test_stack_decoder" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\translate\test_stack_decoder.py")
+2017-11-14T19:38:14: Analyzing "nltk.test.unit.translate" ("c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk\test\unit\translate\__init__.py")
+2017-11-14T19:38:14: Starting analysis of 49 modules
+2017-11-14T19:38:17: Analysis complete
+2017-11-14T19:38:17: Saving group "c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk"
+2017-11-14T19:38:18: [ERROR] nltk.test.unit.test_json2csv_corpus.are_files_identical: Unknown has no name
+2017-11-14T19:38:18: [ERROR] nltk.test.unit.test_json2csv_corpus.are_files_identical: Unknown has no name
+2017-11-14T19:38:18: [ERROR] nltk.test.runtests.arguments: Unknown has no name
+2017-11-14T19:38:18: End of group "c:\users\tomchen\desktop\github\seq2seq-chatbot\seq2seq-chatbot\env\lib\site-packages\nltk"
+2017-11-14T19:38:21: Deleting 0 files

@@ -1,0 +1,7 @@
+XMLCorpusReader
+unicode_literals
+re
+VerbnetCorpusReader
+textwrap
+string_types
+defaultdict

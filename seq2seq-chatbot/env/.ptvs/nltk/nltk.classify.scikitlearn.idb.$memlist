@@ -1,0 +1,15 @@
+setup_module
+print_function
+ClassifierI
+zip
+__all__
+unicode_literals
+names_demo
+names_demo_features
+DictionaryProbDist
+compat
+BernoulliNB
+LogisticRegression
+LabelEncoder
+SklearnClassifier
+DictVectorizer

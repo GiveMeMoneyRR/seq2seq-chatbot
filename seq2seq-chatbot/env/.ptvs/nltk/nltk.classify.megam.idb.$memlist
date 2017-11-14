@@ -1,0 +1,12 @@
+compat
+parse_megam_weights
+config_megam
+call_megam
+_megam_bin
+numpy
+print_function
+write_megam_file
+_write_megam_features
+string_types
+find_binary
+subprocess

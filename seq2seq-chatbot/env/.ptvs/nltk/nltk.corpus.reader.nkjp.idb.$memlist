@@ -1,0 +1,15 @@
+XMLCorpusReader
+functools
+os
+concat
+NKJPCorpus_Morph_View
+re
+NKJPCorpusReader
+XML_Tool
+NKJPCorpus_Text_View
+NKJPCorpus_Segmentation_View
+XMLCorpusView
+NKJPCorpus_Header_View
+string_types
+_parse_args
+tempfile

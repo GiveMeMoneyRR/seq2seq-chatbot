@@ -1,0 +1,4 @@
+abstractmethod
+StemmerI
+ABCMeta
+add_metaclass
