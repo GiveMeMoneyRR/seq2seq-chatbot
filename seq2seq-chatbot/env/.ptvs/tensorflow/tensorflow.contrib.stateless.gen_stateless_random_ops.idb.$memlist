@@ -1,0 +1,16 @@
+_InitOpDefLibrary
+_core
+stateless_truncated_normal
+_op_def_pb2
+stateless_random_normal
+_op_def_registry
+_tensor_shape
+stateless_random_uniform
+_execute
+_collections
+_common_shapes
+_context
+_ops
+_op_def_library
+_op_def_lib
+_dtypes

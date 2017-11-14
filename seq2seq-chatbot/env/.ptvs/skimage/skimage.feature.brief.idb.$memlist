@@ -1,0 +1,8 @@
+BRIEF
+_prepare_grayscale_input_2D
+gaussian_filter
+np
+_mask_border_keypoints
+assert_nD
+DescriptorExtractor
+_brief_loop

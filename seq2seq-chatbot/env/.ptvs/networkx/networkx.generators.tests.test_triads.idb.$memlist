@@ -1,0 +1,5 @@
+test_invalid_name
+assert_equal
+triad_graph
+raises
+test_triad_graph

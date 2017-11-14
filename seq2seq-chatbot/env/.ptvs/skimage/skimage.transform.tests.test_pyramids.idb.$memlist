@@ -1,0 +1,16 @@
+run_module_suite
+test_build_laplacian_pyramid_rgb
+test_build_laplacian_pyramid_gray
+test_build_gaussian_pyramid_gray
+image
+test_build_gaussian_pyramid_rgb
+test_pyramid_expand_rgb
+test_check_factor
+test_pyramid_reduce_rgb
+assert_array_equal
+assert_raises
+data
+pyramids
+image_gray
+test_pyramid_reduce_gray
+test_pyramid_expand_gray

@@ -1,0 +1,6 @@
+nx
+TestMinWeightDominatingSet
+eq_
+min_weighted_dominating_set
+ok_
+min_edge_dominating_set

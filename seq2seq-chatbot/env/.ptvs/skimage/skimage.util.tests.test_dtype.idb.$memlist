@@ -1,0 +1,17 @@
+np
+test_downcast
+test_range_extra_dtypes
+convert
+test_bool
+img_as_ubyte
+img_as_uint
+img_as_int
+test_float_out_of_range
+_verify_range
+test_range
+assert_raises
+test_copy
+img_as_float
+expected_warnings
+dtype_range
+assert_equal

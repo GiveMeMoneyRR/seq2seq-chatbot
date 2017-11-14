@@ -1,0 +1,9 @@
+test_non_disjoint_partition
+test_too_many_blocks
+raises
+test_partition
+kernighan_lin_bisection
+test_multigraph
+assert_equal
+nx
+assert_partition_equal

@@ -1,0 +1,8 @@
+test_colorlabel
+test_adapt_rgb
+setup_test
+teardown_test
+test_delta_e
+teardown
+test_colorconv
+setup

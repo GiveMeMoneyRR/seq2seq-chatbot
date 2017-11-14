@@ -1,0 +1,12 @@
+__builtins__
+__doc__
+__file__
+__loader__
+__name__
+__package__
+__spec__
+__test__
+_append_tris
+iterate_and_store_3d
+np
+unpack_unique_verts

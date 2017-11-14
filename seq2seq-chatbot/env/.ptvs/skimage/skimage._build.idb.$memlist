@@ -1,0 +1,10 @@
+os
+cython
+CYTHON_VERSION
+hashlib
+LooseVersion
+WindowsError
+_changed
+process_tempita_pyx
+_md5sum
+sys

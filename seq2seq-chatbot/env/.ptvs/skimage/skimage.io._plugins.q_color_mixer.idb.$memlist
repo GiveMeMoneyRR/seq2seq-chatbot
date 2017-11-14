@@ -1,0 +1,10 @@
+QSlider
+QWidget
+IntelligentSlider
+QStackedWidget
+MixerPanel
+QGridLayout
+QLabel
+QtGui
+ColorMixer
+QtCore

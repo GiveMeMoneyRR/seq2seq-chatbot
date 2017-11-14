@@ -1,0 +1,15 @@
+head_impl
+tfgan_train
+remove_undocumented
+absolute_import
+head
+gan_head
+division
+tfgan_tuples
+print_function
+functools
+__all__
+ops
+__name__
+model_fn_lib
+GANHead

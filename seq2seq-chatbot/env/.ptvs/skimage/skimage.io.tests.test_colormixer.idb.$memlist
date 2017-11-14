@@ -1,0 +1,12 @@
+TestColorMixerAdd
+TestColorMixerBright
+assert_almost_equal
+cm
+np
+run_module_suite
+assert_array_almost_equal
+assert_array_equal
+TestColorMixerMul
+assert_equal
+TestColorMixer
+ColorMixerTest

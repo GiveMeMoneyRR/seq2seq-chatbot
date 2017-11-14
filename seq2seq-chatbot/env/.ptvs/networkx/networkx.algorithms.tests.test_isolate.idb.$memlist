@@ -1,0 +1,7 @@
+test_isolates
+test_is_isolate
+assert_true
+test_number_of_isolates
+assert_false
+assert_equal
+nx

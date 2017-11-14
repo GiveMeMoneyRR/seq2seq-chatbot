@@ -1,0 +1,10 @@
+test_centrfreq
+run_module_suite
+absolute_import
+assert_almost_equal
+pywt
+division
+print_function
+test_scal2frq_scale
+assert_allclose
+test_intwave_orthogonal

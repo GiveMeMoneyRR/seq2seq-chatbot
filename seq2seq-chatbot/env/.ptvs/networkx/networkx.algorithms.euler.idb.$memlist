@@ -1,0 +1,7 @@
+_multigraph_eulerian_circuit
+__all__
+is_eulerian
+eulerian_circuit
+_simplegraph_eulerian_circuit
+arbitrary_element
+nx

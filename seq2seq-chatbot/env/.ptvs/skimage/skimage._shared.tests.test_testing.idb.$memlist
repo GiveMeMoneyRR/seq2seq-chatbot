@@ -1,0 +1,10 @@
+doctest_skip_parser
+assert_true
+HAVE_AMODULE
+test_parallel
+np
+assert_raises
+test_test_parallel
+test_skipper
+assert_equal
+HAVE_BMODULE

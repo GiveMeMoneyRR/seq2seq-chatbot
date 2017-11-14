@@ -1,0 +1,10 @@
+variable_clipping_optimizer
+__all__
+absolute_import
+__name__
+division
+clip_variables
+print_function
+remove_undocumented
+clip_discriminator_weights
+clip_weights_impl

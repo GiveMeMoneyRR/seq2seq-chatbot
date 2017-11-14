@@ -1,0 +1,8 @@
+SkipTest
+scipy
+assert_almost_equal
+havel_hakimi_graph
+numpy
+assert_equal
+nx
+TestModularity

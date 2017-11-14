@@ -1,0 +1,12 @@
+assert_raises
+TestMultiImage
+MultiImage
+os
+assert_allclose
+data_dir
+np
+run_module_suite
+ImageCollection
+six
+use_plugin
+assert_equal

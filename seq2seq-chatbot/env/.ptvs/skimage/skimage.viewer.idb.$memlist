@@ -1,0 +1,10 @@
+has_qt
+plugins
+widgets
+ImageViewer
+utils
+CollectionViewer
+viewers
+canvastools
+warn
+qt

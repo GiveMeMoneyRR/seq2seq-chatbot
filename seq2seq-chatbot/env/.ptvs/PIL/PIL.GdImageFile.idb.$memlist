@@ -1,0 +1,9 @@
+open
+GdImageFile
+__version__
+builtins
+isPath
+ImageFile
+__builtin__
+ImagePalette
+i16

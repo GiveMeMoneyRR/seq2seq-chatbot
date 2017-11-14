@@ -1,0 +1,6 @@
+setup
+setup_test
+test_draw
+teardown
+teardown_test
+test_draw3d

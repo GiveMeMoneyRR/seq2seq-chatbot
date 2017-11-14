@@ -1,0 +1,12 @@
+_basic_graphical_tests
+__author__
+is_valid_degree_sequence_erdos_gallai
+is_valid_degree_sequence_havel_hakimi
+__all__
+is_digraphical
+defaultdict
+is_pseudographical
+heapq
+is_multigraphical
+nx
+is_graphical

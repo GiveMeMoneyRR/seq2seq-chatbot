@@ -1,0 +1,16 @@
+test_keypoints_censure_moon_image_dob
+np
+test_keypoints_censure_moon_image_octagon
+CENSURE
+img
+test_keypoints_censure_moon_image_star
+test_censure_on_rectangular_images
+testing
+test_parallel
+rescale
+assert_array_equal
+assert_raises
+moon
+test_keypoints_censure_color_image_unsupported_error
+test_keypoints_censure_scale_range_error
+test_keypoints_censure_mode_validity_error

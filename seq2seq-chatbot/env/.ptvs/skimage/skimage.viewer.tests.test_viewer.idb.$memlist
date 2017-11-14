@@ -1,0 +1,17 @@
+skipif
+test_viewer_with_overlay
+pyramid_gaussian
+make_key_event
+QtGui
+OverlayPlugin
+assert_equal
+test_collection_viewer
+CollectionViewer
+ImageViewer
+data
+has_qt
+is_installed
+QtCore
+sobel
+expected_warnings
+test_viewer

@@ -1,0 +1,7 @@
+TestAttributeMixingXY
+BaseTestDegreeMixing
+sorted
+TestDegreeMixingXY
+BaseTestAttributeMixing
+assert_equal
+nx

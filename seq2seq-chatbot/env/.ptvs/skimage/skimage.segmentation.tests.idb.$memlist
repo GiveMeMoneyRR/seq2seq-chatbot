@@ -1,0 +1,12 @@
+test_quickshift
+test_active_contour_model
+test_random_walker
+test_boundaries
+test_join
+test_clear_border
+teardown
+setup_test
+test_felzenszwalb
+test_slic
+teardown_test
+setup

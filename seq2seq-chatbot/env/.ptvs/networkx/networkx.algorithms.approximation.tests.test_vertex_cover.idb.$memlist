@@ -1,0 +1,6 @@
+nx
+TestMWVC
+assert_equals
+is_cover
+ok_
+min_weighted_vertex_cover

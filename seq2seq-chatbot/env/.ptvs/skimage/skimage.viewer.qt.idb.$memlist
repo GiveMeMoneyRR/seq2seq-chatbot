@@ -1,0 +1,11 @@
+QtCore
+_qt_version
+has_qt
+QtWidgets
+QtGui
+QtCore_cls
+QtGui_cls
+FigureCanvasQTAgg
+Qt
+FigureManagerQT
+Signal

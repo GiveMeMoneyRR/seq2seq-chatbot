@@ -1,0 +1,17 @@
+_InitOpDefLibrary
+_core
+_generate_vocab_remapping
+_op_def_pb2
+_context
+_op_def_registry
+_tensor_shape
+_execute
+_collections
+_load_and_remap_matrix
+_common_shapes
+__generate_vocab_remapping_outputs
+_GenerateVocabRemappingOutput
+_ops
+_op_def_library
+_op_def_lib
+_dtypes

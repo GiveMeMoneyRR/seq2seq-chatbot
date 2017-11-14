@@ -1,0 +1,5 @@
+shannon_entropy
+assert_almost_equal
+run_module_suite
+np
+test_shannon_ones

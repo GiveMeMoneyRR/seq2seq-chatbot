@@ -1,0 +1,11 @@
+assert_raises
+test_default_sigma
+test_negative_sigma
+test_null_sigma
+test_preserve_range
+np
+testing
+test_energy_decrease
+gaussian
+test_multichannel
+expected_warnings

@@ -1,0 +1,16 @@
+run_module_suite
+data_dir
+skipif
+pyfits_available
+test_imread_collection_single_MEF
+_same_ImageCollection
+fplug
+pyfits
+test_fits_plugin_import
+np
+test_imread_collection_MEF_and_simple
+test_imread_simple
+teardown
+os
+test_imread_MEF
+io

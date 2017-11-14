@@ -1,0 +1,16 @@
+relu
+selu
+tanh
+serialize
+softmax
+sigmoid
+softsign
+absolute_import
+print_function
+division
+get
+deserialize
+linear
+softplus
+hard_sigmoid
+elu

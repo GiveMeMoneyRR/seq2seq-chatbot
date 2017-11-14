@@ -1,0 +1,16 @@
+KfacOptimizer
+est
+linalg_ops
+tf_variables
+math_ops
+_allowed_symbols
+remove_undocumented
+absolute_import
+print_function
+gradient_descent
+division
+array_ops
+__name__
+cmvp
+control_flow_ops
+ops

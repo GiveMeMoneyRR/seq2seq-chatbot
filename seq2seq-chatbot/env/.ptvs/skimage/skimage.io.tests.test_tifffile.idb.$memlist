@@ -1,0 +1,17 @@
+assert_array_almost_equal
+data_dir
+test_imread_uint16
+imsave
+reset_plugins
+os
+test_imread_uint16_big_endian
+run_module_suite
+np
+TestSave
+assert_array_equal
+test_imread_multipage_rgb_tif
+NamedTemporaryFile
+teardown
+setup
+imread
+use_plugin

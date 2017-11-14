@@ -1,0 +1,9 @@
+QWidget
+QPainter
+ColorHistogram
+QuadHistogram
+np
+histograms
+QFrame
+QColor
+QGridLayout

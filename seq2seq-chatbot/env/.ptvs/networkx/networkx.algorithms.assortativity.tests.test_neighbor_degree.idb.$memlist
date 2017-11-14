@@ -1,0 +1,5 @@
+nx
+assert_equal
+object
+TestAverageNeighbor
+assert_almost_equal

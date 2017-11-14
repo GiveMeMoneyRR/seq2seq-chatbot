@@ -1,0 +1,13 @@
+optimizer
+state_ops
+context
+absolute_import
+variable_scope
+AdamOptimizer
+division
+math_ops
+print_function
+resource_variable_ops
+control_flow_ops
+ops
+training_ops

@@ -1,0 +1,16 @@
+inter_community_non_edges
+inter_community_edges
+intra_community_edges
+coverage
+NetworkXError
+require_partition
+__all__
+division
+NotAPartition
+wraps
+performance
+is_partition
+modularity
+product
+nx
+not_implemented_for

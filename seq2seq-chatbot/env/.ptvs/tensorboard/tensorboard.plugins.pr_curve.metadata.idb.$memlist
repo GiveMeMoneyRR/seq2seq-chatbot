@@ -1,0 +1,15 @@
+PLUGIN_NAME
+RECALL_INDEX
+PRECISION_INDEX
+TRUE_POSITIVES_INDEX
+absolute_import
+plugin_data_pb2
+division
+TRUE_NEGATIVES_INDEX
+print_function
+FALSE_NEGATIVES_INDEX
+tf
+create_summary_metadata
+PROTO_VERSION
+parse_plugin_metadata
+FALSE_POSITIVES_INDEX

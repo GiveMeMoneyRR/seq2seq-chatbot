@@ -1,0 +1,9 @@
+gen_single_image_random_dot_stereograms_ops
+single_image_random_dot_stereograms
+absolute_import
+_sirds_ops
+division
+print_function
+loader
+ops
+resource_loader

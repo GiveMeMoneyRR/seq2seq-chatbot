@@ -1,0 +1,15 @@
+short
+WmfHandler
+WmfStubImageFile
+register_handler
+_long
+long
+word
+dword
+print_function
+_save
+ImageFile
+_accept
+_handler
+Image
+__version__

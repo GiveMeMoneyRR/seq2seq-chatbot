@@ -1,0 +1,12 @@
+MspImageFile
+o16
+struct
+i8
+i16
+MspDecoder
+_save
+ImageFile
+_accept
+io
+Image
+__version__

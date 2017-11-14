@@ -1,0 +1,13 @@
+_open_bz2
+_open_gz
+_dispatch_dict
+is_string_like
+__all__
+sys
+open_file
+decorator
+nodes_or_number
+splitext
+nx
+defaultdict
+not_implemented_for

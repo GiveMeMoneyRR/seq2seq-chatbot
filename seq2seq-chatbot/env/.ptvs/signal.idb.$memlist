@@ -6,8 +6,8 @@ default_int_handler
 pthread_sigmask
 int
 SIG_DFL
-SIGSEGV
 CTRL_C_EVENT
+SIGSEGV
 SIGFPE
 SIGBREAK
 sigwait

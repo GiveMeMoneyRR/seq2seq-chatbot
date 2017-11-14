@@ -1,0 +1,10 @@
+QtCore
+dialogs
+skipif
+test_open_file_dialog
+QtGui
+test_format_filename
+has_qt
+test_event_loop
+test_save_file_dialog
+utils

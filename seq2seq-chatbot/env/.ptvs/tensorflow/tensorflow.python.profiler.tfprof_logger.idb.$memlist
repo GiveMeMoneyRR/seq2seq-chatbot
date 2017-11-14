@@ -1,0 +1,17 @@
+tensor_shape
+tfprof_log_pb2
+os
+_get_logged_ops
+flops_registry
+six
+REGISTERED_FLOP_STATS
+sys
+absolute_import
+TRAINABLE_VARIABLES
+print_function
+division
+gfile
+_merge_default_with_oplog
+write_op_log
+_fill_missing_graph_shape
+ops

@@ -1,10 +1,10 @@
-PID_CODEPAGE
+_Unspecified
 range
 MSIError
-PID_CREATE_DTM
+Table
 MSICOLINFO_NAMES
-sequence
-_Unspecified
+PID_CODEPAGE
+PID_CREATE_DTM
 add_data
 isinstance
 MSIMODIFY_VALIDATE_DELETE
@@ -29,7 +29,7 @@ make_id
 MSIMODIFY_INSERT_TEMPORARY
 os
 AMD64
-MSIDBOPEN_DIRECT
+re
 Binary
 PID_WORDCOUNT
 text
@@ -50,7 +50,7 @@ UuidCreate
 MSIDBOPEN_CREATE
 Exception
 _directories
-Table
+sequence
 type_key
 PID_APPNAME
 PID_LASTAUTHOR
@@ -80,7 +80,7 @@ ValueError
 schema
 print
 OSError
-re
+MSIDBOPEN_DIRECT
 CreateRecord
 gen_uuid
 MSIDBOPEN_READONLY

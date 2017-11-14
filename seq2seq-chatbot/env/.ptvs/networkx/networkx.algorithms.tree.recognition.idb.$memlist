@@ -1,0 +1,7 @@
+__author__
+is_tree
+is_arborescence
+is_forest
+__all__
+is_branching
+nx

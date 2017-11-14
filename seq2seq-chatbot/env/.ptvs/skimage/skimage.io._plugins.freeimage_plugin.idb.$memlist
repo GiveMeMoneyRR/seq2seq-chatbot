@@ -1,0 +1,5 @@
+deprecated
+imsave
+imsave_imageio
+imread
+imread_imageio

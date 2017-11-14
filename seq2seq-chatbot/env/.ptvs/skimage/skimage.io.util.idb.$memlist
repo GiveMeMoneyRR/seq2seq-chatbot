@@ -1,0 +1,9 @@
+is_url
+urlopen
+contextmanager
+tempfile
+file_or_url_context
+six
+os
+URL_REGEX
+re

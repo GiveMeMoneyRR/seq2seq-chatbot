@@ -21,8 +21,8 @@ SQLITE_UPDATE
 SQLITE_TRANSACTION
 SQLITE_DROP_TEMP_TRIGGER
 SQLITE_DROP_TEMP_VIEW
-version
-len
+OptimizedUnicode
+SQLITE_IGNORE
 Statement
 collections
 version_info
@@ -50,8 +50,8 @@ time
 Warning
 SQLITE_CREATE_TEMP_TRIGGER
 InternalError
-SQLITE_IGNORE
-OptimizedUnicode
+version
+len
 SQLITE_SELECT
 TimestampFromTicks
 register_adapters_and_converters

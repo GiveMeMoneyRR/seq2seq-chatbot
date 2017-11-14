@@ -1,0 +1,7 @@
+reverse_cuthill_mckee_ordering
+list
+test_rcm_alternate_heuristic
+assert_true
+min
+test_reverse_cuthill_mckee
+nx

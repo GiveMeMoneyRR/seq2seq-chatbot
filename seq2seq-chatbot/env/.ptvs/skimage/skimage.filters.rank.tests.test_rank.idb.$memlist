@@ -1,0 +1,17 @@
+run_module_suite
+np
+os
+disk
+util
+img_as_ubyte
+skimage
+test_parallel
+morphology
+rank
+assert_raises
+data
+grey
+TestRank
+img_as_float
+expected_warnings
+assert_equal

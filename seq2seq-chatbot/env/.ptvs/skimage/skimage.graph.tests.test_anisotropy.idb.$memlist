@@ -1,0 +1,8 @@
+test_anisotropy
+a
+mcp
+assert_array_equal
+horizontal_ramp
+assert_almost_equal
+np
+vertical_ramp

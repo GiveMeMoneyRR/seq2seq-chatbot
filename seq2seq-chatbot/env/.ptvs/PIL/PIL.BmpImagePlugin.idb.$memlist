@@ -1,0 +1,17 @@
+o32
+__version__
+_accept
+BmpImageFile
+i32
+Image
+o8
+_save
+i8
+SAVE
+ImagePalette
+o16
+math
+DibImageFile
+BIT2MODE
+i16
+ImageFile

@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4a4063dd-21cc-4f9c-99e4-8c80eb73e07f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>main_simple_seq2seq.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

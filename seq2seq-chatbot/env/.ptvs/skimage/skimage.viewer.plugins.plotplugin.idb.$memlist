@@ -1,0 +1,8 @@
+QtGui
+EventManager
+__all__
+Plugin
+BlitManager
+np
+new_plot
+PlotPlugin

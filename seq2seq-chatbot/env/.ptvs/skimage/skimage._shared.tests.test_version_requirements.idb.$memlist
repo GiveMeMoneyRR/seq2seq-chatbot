@@ -1,0 +1,9 @@
+assert_raises
+test_is_installed
+nose
+test_get_module
+np
+test_require
+test_get_module_version
+assert_equal
+version_req

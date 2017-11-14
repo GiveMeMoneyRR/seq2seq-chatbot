@@ -1,0 +1,10 @@
+label
+run_module_suite
+TestConnectedComponents3d
+TestSupport
+ccomp
+np
+BG
+assert_array_equal
+TestConnectedComponents
+expected_warnings

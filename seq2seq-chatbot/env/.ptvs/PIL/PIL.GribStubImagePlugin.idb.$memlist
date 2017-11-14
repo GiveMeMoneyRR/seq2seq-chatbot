@@ -1,0 +1,8 @@
+register_handler
+GribStubImageFile
+i8
+_save
+ImageFile
+_accept
+_handler
+Image

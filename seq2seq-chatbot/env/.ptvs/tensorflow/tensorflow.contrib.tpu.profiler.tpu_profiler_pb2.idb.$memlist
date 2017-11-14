@@ -1,0 +1,16 @@
+sys
+tensorflow_dot_core_dot_framework_dot_graph__pb2
+descriptor_pb2
+_reflection
+DESCRIPTOR
+_symbol_database
+_PROFILEREQUEST
+ProfileRequest
+_descriptor
+_sym_db
+tensorflow_dot_contrib_dot_tpu_dot_profiler_dot_op__profile__pb2
+tensorflow_dot_core_dot_protobuf_dot_config__pb2
+_PROFILERESPONSE
+_message
+ProfileResponse
+_b

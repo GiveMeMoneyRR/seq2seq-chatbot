@@ -1,0 +1,7 @@
+TestStronglyRegular
+TestDistanceRegular
+is_strongly_regular
+assert_true
+assert_false
+assert_equal
+nx
