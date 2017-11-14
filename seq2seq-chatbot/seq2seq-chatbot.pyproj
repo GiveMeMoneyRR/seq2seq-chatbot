@@ -4,13 +4,15 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4a4063dd-21cc-4f9c-99e4-8c80eb73e07f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>seq2seq_chatbot.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>seq2seq-chatbot</Name>
     <RootNamespace>seq2seq-chatbot</RootNamespace>
+    <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +23,33 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="seq2seq_chatbot.py" />
+    <Folder Include="data\" />
+    <Folder Include="data\cornell_corpus\" />
+    <Folder Include="data\twitter\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="data\cornell_corpus\data.py" />
+    <Compile Include="data\twitter\data.py" />
+    <Compile Include="data\__init__.py" />
+    <Compile Include="main_simple_seq2seq.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="data\twitter\idx_a.npy" />
+    <Content Include="data\twitter\idx_q.npy" />
+    <Content Include="data\twitter\metadata.pkl" />
+    <Content Include="data\twitter\pull" />
+    <Content Include="data\twitter\pull_raw_data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="env\">
+      <Id>env</Id>
+      <Version>3.6</Version>
+      <Description>env (Anaconda 4.4.0)</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
